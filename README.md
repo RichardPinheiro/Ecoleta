@@ -64,7 +64,7 @@ We can consider this project as being divided into three parts:
 2. Frontend Web
 3. Frontend Mobile
 
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
+💡Both Web and Mobile need the Backend to be running to work.
 
 ### Prerequisites
 
