@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://raw.githubusercontent.com/tgmarinho/Ecoleta/master/assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
@@ -33,17 +33,17 @@ Users will have access to the mobile application, where they can:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/tgmarinho/Ecoleta/raw/master/assets/web.svg" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/tgmarinho/Ecoleta/raw/master/assets/sucesso-web.svg" width="400px">
 </p>
 
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/tgmarinho/Ecoleta/raw/master/assets/home-mobile.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/tgmarinho/Ecoleta/raw/master/assets/detalhes-mobile.svg" width="200px">
 </p>
 
 ## 🛠 Technologies
@@ -114,7 +114,7 @@ $ yarn start or npm run start
 # The application will open on the port: 3000 - go to http: // localhost: 3000
 ```
 
-### 📱Rodando a aplicação mobile 
+### 📱Running the mobile application
 
 🚧 In Progress... 🚧
 
