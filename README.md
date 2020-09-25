@@ -69,7 +69,7 @@ We can consider this project as being divided into three parts:
 ### Prerequisites
 
 Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js][nodejs].
+[Git][git], [Node.js][nodejs].
 In addition, it is good to have an editor to work with the code like [VSCode][vscode]
 
 ### 💻 Running the Backend
@@ -140,3 +140,4 @@ After the merge of your pull request is done, you can delete your branch.
 [reactjs]: https://reactjs.org
 [rn]: https://facebook.github.io/react-native/
 [vscode]: https://code.visualstudio.com/
+[git]: https://git-scm.com
